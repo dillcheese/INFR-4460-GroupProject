@@ -1,5 +1,10 @@
 # INFR-4460-Group Project
 
+# Members
+Jackie Zhou  100750922
+Alvin Ng  1
+Maddin Thom 1
+
 
 
 
