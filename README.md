@@ -2,7 +2,9 @@
 
 # Members
 Jackie Zhou  100750922
-Alvin Ng  1
+
+Alvin Ng  100754129
+
 Maddin Thom 1
 
 
