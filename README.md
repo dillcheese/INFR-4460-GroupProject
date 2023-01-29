@@ -1,11 +1,11 @@
 # INFR-4460-Group Project
 
 # Members
-Jackie Zhou (100750922)
+Jackie Zhou (100750922): Programming
 
-Alvin Ng (100754129)
+Alvin Ng (100754129):
 
-Maddin Thom (100751351)
+Maddin Thom (100751351): General research, interviewing, writing
 
 
 
