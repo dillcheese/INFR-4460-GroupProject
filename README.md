@@ -1,11 +1,20 @@
 # INFR-4460-Group Project
 
 # Members
-Jackie Zhou (100750922): Programming
+## Jackie Zhou (100750922)
+Skills: Programming, Design 
 
-Alvin Ng (100754129):
+Role: Programmer
 
-Maddin Thom (100751351): General research, interviewing, writing
+## Alvin Ng (100754129)
+Skills: Design, Art, Modelling    
+
+Role: Designer
+
+## Maddin Thom (100751351)
+Skills: Design, Prototyping, Scene Building
+
+Role: Researcher, Designer
 
 
 
