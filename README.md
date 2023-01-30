@@ -11,9 +11,9 @@ Skills: Programming, Design
 Role: Programmer
 
 ## Alvin Ng (100754129)
-Skills:    
+Skills: Design, Art, Modelling    
 
-Role:
+Role: Designer
 
 ## Maddin Thom (100751351)
 Skills: Design, Prototyping, Scene Building
