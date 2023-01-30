@@ -2,7 +2,7 @@
 
 This repo contains a PDF of our project proposal as well as a higher quality screenshot of our Kanban/Trello board (in case the one in the report is too blurry).
 
-![Trello](docs/trello.png)
+![Trello](trello.png)
 
 # Members
 ## Jackie Zhou (100750922)
