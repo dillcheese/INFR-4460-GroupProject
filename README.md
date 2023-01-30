@@ -19,7 +19,7 @@ Skills: Design, Prototyping, Scene Building
 Role: Researcher, Designer
 
 ##
-The current team leader is Jackie Zhou, the group decided this by a vote. The rest of the team leadership rotation was decided by the res tof the team members choosing which month they would like to be team leader.
+The current team leader is Jackie Zhou, the group decided this by a vote. The rest of the team leadership rotation was decided by the rest of the team members choosing which month they would like to be team leader.
 
 The team leadership rotation will go as follows:
 
