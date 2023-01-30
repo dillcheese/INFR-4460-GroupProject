@@ -1,5 +1,7 @@
 # INFR-4460 Assignment 1: Project-Proposal
 
+This repo contians a PDF of our project proposal as well as a higher quality screenshot of our Canban/Trello board (in case the one in the report is to blurry).
+
 # Members
 ## Jackie Zhou (100750922)
 Skills: Programming, Design 
