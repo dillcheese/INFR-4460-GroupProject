@@ -1,6 +1,6 @@
 # INFR-4460 Assignment 1: Project-Proposal
 
-This repo contians a PDF of our project proposal as well as a higher quality screenshot of our Kanban/Trello board (in case the one in the report is to blurry).
+This repo contains a PDF of our project proposal as well as a higher quality screenshot of our Kanban/Trello board (in case the one in the report is too blurry).
 
 # Members
 ## Jackie Zhou (100750922)
