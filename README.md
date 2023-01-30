@@ -1,19 +1,19 @@
 # INFR-4460 Assignment 1: Project-Proposal
 
 # Members
-Jackie Zhou (100750922)
+###### Jackie Zhou (100750922)
 
 Skills: Programming, Design 
 
 Role: Programmer
 
-Alvin Ng (100754129)
+###### Alvin Ng (100754129)
 
 Skills:    
 
 Role:
 
-Maddin Thom (100751351)
+###### Maddin Thom (100751351)
 
 Skills: Design, Prototyping, Scene Building
 
