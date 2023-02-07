@@ -17,6 +17,8 @@ Skills: Design, Prototyping, Scene Building
 Role: Researcher, Designer
 
 
-
 # Assignment 1 Direct Link
 Link: https://github.com/dillcheese/INFR-4460-GroupProject/tree/Assignment1
+
+# Assignment 2 Direct Link
+Link: https://github.com/dillcheese/INFR-4460-GroupProject/tree/Assignment2 
