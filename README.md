@@ -19,3 +19,4 @@ Role: Researcher, Designer
 ##
 Youtube Link: https://youtu.be/ik3S8PHVUPs
 
+All relevant appendices such as the use cases, personas, and notes are in the paper and the repo as well.
